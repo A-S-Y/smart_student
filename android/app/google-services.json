@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "843367532738",
+    "project_id": "smartstudent-b7d9f",
+    "storage_bucket": "smartstudent-b7d9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843367532738:android:867f3c8ac86b1b081e935b",
+        "android_client_info": {
+          "package_name": "com.example.smart_student"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843367532738-c6gceq4knfnr3kefr8gfdf6joqpb8cr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgQOSfUhJsBv8TCk58uYJ1sOfvvCU5lZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843367532738-c6gceq4knfnr3kefr8gfdf6joqpb8cr2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "843367532738-95890v6p61o5jn4tjbcchjno5nejhmr9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smartStudent"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
